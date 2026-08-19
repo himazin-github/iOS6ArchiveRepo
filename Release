@@ -1,8 +1,8 @@
 Origin: Dorian
-Label: Dorian iOS 6 Repo
+Label: Dorian iOS 6 Legacy Repo
 Suite: stable
 Version: 1.0
 Codename: ios6
 Architectures: iphoneos-arm
 Components: main
-Description: Packages for legacy iOS 6 devices
+Description: Preserving legacy software for iOS 6 devices.
